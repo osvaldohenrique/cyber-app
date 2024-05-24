@@ -2,7 +2,7 @@
 ## 🚀 
 * Este projeto é apenas um exemplo básico para demonstrar como configurar e executar uma aplicação Node.js com Express dentro de um container Docker.
 
-## Instruções para roda o projeto
+## Instruções para rodar o projeto
 
 * Para rodar o app, é preciso incialmente executar o instalandodocker.sh onde será realizado a instalação do docker e docker compose
 * Em seguida é preciso buildar o dockefile com o comando 
